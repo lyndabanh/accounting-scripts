@@ -1,6 +1,5 @@
 """Print out all the melons in our inventory."""
 
-
 # from melons import melon_names, melon_seedlessness, melon_prices
 
 
@@ -23,5 +22,12 @@
 # for i in melon_names:
 #     print_melon(melon_names[i], melon_seedlessness[i], melon_prices[i])
 
-for attribute, value in melons:
-    print (f'{attribute} : {value}')
+from melons import melons
+
+for melon in melons:
+    print(melon)
+    for attribute, value in melons[melon].items():
+        print(f'    {attribute} : {value}')
+    print()
+
+    

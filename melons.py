@@ -23,44 +23,44 @@
 # }
 
 melons = {
-    'Honeydew' : {
-        'name' : 'Honeydew'
-        'price' : 0.99
-        'seedless' : True
-        'flesh_color' : 
-        'rind_color' :
-        'weight' :
+    'Honeydew': {
+        'name': 'Honeydew',
+        'price': 0.99,
+        'seedless': True,
+        'flesh_color': None,
+        'rind_color': None,
+        'weight': None
     },
     'Crenshaw' : {
-        'name' : 'Crenshaw'
-        'price' : 2.00
-        'seedless' : False
-        'flesh_color' : 
-        'rind_color' :
-        'weight' :
+        'name' : 'Crenshaw',
+        'price' : 2.00,
+        'seedless' : False,
+        'flesh_color': None,
+        'rind_color': None,
+        'weight': None
     },
     'Crane' : {
-        'name' : 'Crane'
-        'price' : 2.50
-        'seedless' : False
-        'flesh_color' : 
-        'rind_color' :
-        'weight' :
+        'name' : 'Crane',
+        'price' : 2.50,
+        'seedless' : False,
+        'flesh_color': None,
+        'rind_color': None,
+        'weight': None
     },
     'Casaba' : {
-        'name' : 'Casaba'
-        'price' : 2.50
-        'seedless' : False
-        'flesh_color' : 
-        'rind_color' :
-        'weight' :
+        'name' : 'Casaba',
+        'price' : 2.50,
+        'seedless' : False,
+        'flesh_color': None,
+        'rind_color': None,
+        'weight': None
     },
     'Canteloupe' : {
-        'name' : 'Canteloupe'
-        'price' : 0.99
-        'seedless' : False
-        'flesh_color' : 
-        'rind_color' :
-        'weight' :
+        'name' : 'Canteloupe',
+        'price' : 0.99,
+        'seedless' : False,
+        'flesh_color': None,
+        'rind_color': None,
+        'weight': None
     }
 }
